@@ -1,6 +1,8 @@
 Travel notes on Italy
 =====================
 
+[Go back](../)
+
 ## General information (mainly about northern Italy)
 
 Italian people don't speak much english (or are not really enclined to speak english).

@@ -1,11 +1,13 @@
 Travel notes on Czech Republic
 ==============================
 
+[Go back](../)
+
 ## General information
 
 Many czech people don't speak English, especially outside Praha and the main cities. I took a train between Praha and Linz (Austria) and I had to stop in a small czech city, to take a bus because of works on the line. On a Sunday, there wasn't anybody in this place, and noone was able to speak English.
 
-Regional trains are not very comfortable, but fast trains, on main railways, are very comfortable and quite cheap.
+Regional trains are not very comfortable, but fast trains (Pendolinos), on main railways, are very comfortable and quite cheap.
 
 
 ## Praha

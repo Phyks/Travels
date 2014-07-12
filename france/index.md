@@ -1,6 +1,8 @@
 Travel notes on France
 ======================
 
+[Go back](../)
+
 ## Paris
 
 When you want to connect from Paris center and the airports, a general advice would be to always take the local train service, RER, which is usually way faster than buses. In fact, there can be big traffic jams which won't affect it. Air France buses are very expensive, and RATP (local public transport) buses and RER have similar prices (~ 10€).
